@@ -5,4 +5,5 @@ gfgf
 SELECT kondisi
   CASE lapar THEN makan
   CASE ngantuk THEN tidur
+  CASE malas TEHN diam
 END SELECT
