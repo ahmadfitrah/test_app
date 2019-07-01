@@ -1,0 +1,8 @@
+
+xvvxgd
+gfgf
+
+SELECT kondisi
+  CASE lapar THEN makan
+  CASE ngantuk THEN tidur
+END SELECT
